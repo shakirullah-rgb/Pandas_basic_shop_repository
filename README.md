@@ -1,12 +1,21 @@
-# Pandas Basis Shop Management System
+</> Markdown
 
-This is my first project.
+# Python Basic Shop Management System
 
-Features:
-.Search product
-.Buy Product
-.Update Stock
-.Generate Bill
+## Overview
+this is a biginner_friendly shop management developed using python.
 
-Author:
+## Features
+-Display available
+-Search Products
+-UPdate stock automatically
+-Generate customer bill
+
+## Technologies Used 
+-Python
+
+## How to Run
+python shop.py
+
+## Author
 Shakir
