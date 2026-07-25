@@ -3,7 +3,7 @@
 # Python Basic Shop Management System
 
 ## Overview
-this is a biginner_friendly shop management developed using python.
+this is a biginner_friendly shop management built using python.
 
 ## Features
 -Display available
